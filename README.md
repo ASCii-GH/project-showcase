@@ -1,2 +1,2 @@
-# asc_gh.github.com
+# Project showcase
 A Github Pages website to showcase projects.
