@@ -1,2 +1,2 @@
 # Project showcase
-A Github Pages website to showcase projects.
+Hi, This is a Github Pages website to showcase my projects.
